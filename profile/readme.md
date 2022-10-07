@@ -1,1 +1,1 @@
-<img src="./assets/clevtech.png" align="center" alt="clevtech"/>
+<img src="./clevtech.png" align="center" alt="clevtech"/>
