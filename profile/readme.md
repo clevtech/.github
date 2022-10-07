@@ -1,1 +1,1 @@
-<img src="./clevtech.png" align="center" alt="clevtech"/>
+![Cleverest Technologies LLP Banner](clevtech.png)
