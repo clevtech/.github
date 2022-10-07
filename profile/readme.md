@@ -1,1 +1,1 @@
-<img src="./assets/whoami.png" align="center" alt="whoami"/>
+<img src="./assets/clevtech.png" align="center" alt="clevtech"/>
