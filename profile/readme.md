@@ -1,1 +1,1 @@
-![Cleverest Technologies LLP Banner](clevtech.png)
+![Cleverest Technologies LLP Banner](./profile/clevtech.png)
