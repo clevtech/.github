@@ -1,29 +1,29 @@
 ## Cleverest Technologies
 
-![Cleverest Technologies LLP Banner](./profile/clevtech.png)
+![Cleverest Technologies LLP Banner](./profile/banner.png)
 
-Добро пожаловать на официальную страницу организации Cleverest Technologies на GitHub! Мы - инновационная дизайн-компания, специализирующаяся на цифровизации и автоматизации различных отраслей. Этот README предоставит вам основную информацию о нашей организации, наших целях и том, как вы можете принять участие.
+Welcome to the official Cleverest Technologies organization page on GitHub! We are an innovative young IT company specializing in digitalization and automation across various industries. This README will provide you with essential information about our organization, our goals, and how you can get involved.
 
-### О Нас
+### About Us
 
-В Cleverest Technologies мы посвящены революционированию отраслей с помощью инновационного дизайна, передовых технологий и страсти к автоматизации. Наша команда экспертов объединяет уникальное сочетание креативности и технического мастерства для создания решений, способствующих повышению эффективности, сокращению ручных процессов и улучшению опыта пользователей.
+At Cleverest Technologies, we are dedicated to revolutionizing industries through innovative design, cutting-edge technologies, and a passion for automation. Our team of experts brings together a unique blend of creativity and technical mastery to create solutions that enhance efficiency, streamline manual processes, and improve user experiences.
 
-### Наши Цели
+### Our Goals
 
-Наши основные направления:
+Our primary focus areas are:
 
-- **Цифровизация:** Мы верим в силу цифровой трансформации. Наша цель - преобразовать традиционные процессы в бесшовные цифровые решения, делая информацию более доступной и процессы более упрощенными.
+- **Digitalization:** We believe in the power of digital transformation. Our goal is to convert traditional processes into seamless digital solutions, making information more accessible and processes more simplified.
 
-- **Автоматизация:** Это то, что лежит в центре нашей работы. Мы стремимся разрабатывать решения, сокращающие ручное вмешательство, оптимизирующие рабочие процессы и повышающие общую производительность.
+- **Automation:** This is at the core of our work. We strive to develop solutions that reduce manual intervention, optimize workflows, and enhance overall productivity.
 
-### Свяжитесь с Нами
+### Get In Touch
 
-Мы хотели бы услышать вас! Если у вас есть вопросы, идеи или вы хотите сотрудничать, не стесняйтесь связаться с нами. Вы можете связаться с нами через следующие каналы:
+We'd love to hear from you! If you have questions, ideas, or if you're interested in collaborating, feel free to reach out. You can contact us through the following channels:
 
-- Почта: [hello@cleveresttech.com](hello@cleveresttech.com)
-- Веб-сайт: [https://cleverest.tech](https://cleverest.tech)
+- Email: [main@cleverest.tech](main@cleverest.tech)
+- Website: [https://cleverest.tech](https://cleverest.tech)
 - LinkedIn: [Cleverest Technologies](https://www.linkedin.com/company/cleverest-technologies)
 
 ---
 
-Благодарим вас за интерес к Cleverest Technologies. Давайте вместе формировать будущее через дизайн, цифровизацию и автоматизацию!
+Thank you for your interest in Cleverest Technologies. Let's together shape the future through technology, digitalization, and automation!
